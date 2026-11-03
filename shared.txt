@@ -1,1 +1,2 @@
 Line from conflict-1 
+Line from conflict-2
